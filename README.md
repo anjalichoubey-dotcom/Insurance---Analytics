@@ -39,4 +39,4 @@ Adding predictive analysis (e.g., revenue forecasting).
 Integration with Power BI Service for real-time collaboration.
 ## Author
 Name: Snehlata Choubey
-📧 Contact: [Snehlata Choubey](www.linkedin.com/in/snehlata-choubey-a52907205)
+📧 Contact: [Snehlata Choubey](https://www.linkedin.com/in/snehlata-choubey-a52907205/)
