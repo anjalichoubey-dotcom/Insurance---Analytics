@@ -23,11 +23,11 @@ Identify top open opportunities for business growth.
 6-Top Open Opportunity
 ## Dashboard
 ### Excel
-  ![Excel]("https://github.com/user-attachments/assets/f08c2973-19b8-4f68-896d-212443851690")
+  ![Excel](https://github.com/anjalichoubey-dotcom/Insurance---Analytics/blob/main/Screenshot%202025-10-07%20155148.png)
 ### Tableau
-  ![Tableau]("https://github.com/user-attachments/assets/ec1b4781-4053-4542-8d9b-b2dbfcdf92f7")
+  ![Tableau](https://github.com/anjalichoubey-dotcom/Insurance---Analytics/blob/main/Screenshot%202025-10-07%20155034.png)
 ### Power BI
-  ![Power BI]("https://github.com/user-attachments/assets/6cfff9f7-8500-4a20-b4af-34af1e80450f")
+  ![Power BI](https://github.com/anjalichoubey-dotcom/Insurance---Analytics/blob/main/Screenshot%202025-10-07%20154641.png)
 ## Insights
 Helps track sales team performance against business targets.
 Identifies growth opportunities via cross-sell and renewals.
@@ -38,5 +38,5 @@ Automating data refresh using a database connection.
 Adding predictive analysis (e.g., revenue forecasting).
 Integration with Power BI Service for real-time collaboration.
 ## Author
-Name: Snehlata Choueby
+Name: Snehlata Choubey
 📧 Contact: [Snehlata Choubey](www.linkedin.com/in/snehlata-choubey-a52907205)
